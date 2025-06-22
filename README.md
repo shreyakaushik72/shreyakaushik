@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shreya Kaushik 👋</h1>
 
 <p align="center">
-  <strong>Data Scientist | AI for Global Health | Financial Predictive Modelling | Patent Holder 
+  <strong>Data Scientist | AI for Global Health | Financial Predictive Modelling | Patent Holder </strong><br>
   Passionate about building ethical, scalable, and socially impactful AI solutions.
 </p>
 
