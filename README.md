@@ -17,7 +17,8 @@
 
 ## 🔬 Research Interests
 
-- Public Health AI | Digital Health Systems | Global Health Equity  
+- Public Health AI | Digital Health Systems | Global Health Equity
+- Fintech | Data Science in Economics | Credit Risk Modelling   
 - Clinical Decision Support | NLP for Healthcare | AI Fairness & Ethics  
 - Mobile Health in Low-Resource Settings | Responsible AI for Deployment  
 
